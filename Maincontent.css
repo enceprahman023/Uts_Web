@@ -1,0 +1,14 @@
+/* src/components/Maincontent.css */
+
+.cardjurusan {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.cardjurusan img {
+    border-radius: 50%;
+    width: 100%;
+    height: auto;
+}
